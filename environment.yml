@@ -9,3 +9,5 @@ dependencies:
   - matplotlib
   - numpy
   - wget
+  - xarray
+  - netcdf4
