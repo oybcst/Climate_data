@@ -1,4 +1,4 @@
-# Template for creating a Notebook with Python 
+# Climate data
 
 This is a template for creating a Jupyter Notebook in Python, created for NOAA RESTORE's:
 
@@ -9,7 +9,7 @@ Using GitHub and Binder, share your work:
 - Add Lat/Lon information to make an interactive map of the study area and for station data
 - Do plots and analysis
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OyBcSt/project-template-python/HEAD?labpath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OyBcSt/Climate_data/HEAD?labpath=index.ipynb)
 
 
 This example repo uses Python.  ([Using R? Check Here.](https://github.com/OyBcSt/project-template-r))
