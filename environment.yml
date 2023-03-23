@@ -11,3 +11,4 @@ dependencies:
   - wget
   - xarray
   - netcdf4
+  - cartopy
