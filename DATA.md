@@ -1,4 +1,4 @@
-For ALoCE:
+Metadata for ALoCE:
 - Title
 - Abstract
 - Summary
@@ -12,7 +12,7 @@ From Pat:
 - I will coordinate with the submitter to make sure we have the proper information to supoprt the DOI minting and uploading the data.
 
 
-For researchers:
+Metadata for researchers, what are in these directories?
 ```
 ./NOAA_data
 ./NOAA_data/ERA5-single-hourly
