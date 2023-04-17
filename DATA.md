@@ -1,5 +1,18 @@
-NOAA_data
+For ALoCE:
+- Title
+- Abstract
+- Summary
+- Author (Full name, ORCID, email, institution)
+- Co-authors (Full names - ORCIDs if you have them is even better, emails and institutions)
+- Geographical region of interest (bounding geospatial box is fine - lat/long of furthest extents or specific sites is fine also)
 
+From Pat:
+- Note that the abstract and summary is usually referencing the dataset itself and not necessarily the project abstract/summary.
+- I can also mint DOIs for any datasets as well - just let me know if you need/want one to reference further in papers or publications.
+- I will coordinate with the submitter to make sure we have the proper information to supoprt the DOI minting and uploading the data.
+
+
+For researchers:
 ```
 ./NOAA_data
 ./NOAA_data/ERA5-single-hourly
